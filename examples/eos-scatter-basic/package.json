@@ -1,5 +1,5 @@
 {
-  "name": "eos-scatter-basic",
+  "name": " eos-scatter-basic ",
   "private": true,
   "scripts": {
     "start": "parcel ./src/index.html"
